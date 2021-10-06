@@ -15,45 +15,47 @@
 	</section>
 	<section id="about-us">
 		<div class="container">
-			<div role="info">
-				<div class="row">
-					<div class="col-md-3 col-md-3">
-						<h4>Về chúng tôi</h4>
-					</div>
-					<div class="col-md-9 col-md-9">
-						<p>Là công ty cổ phần được thành lập và hoạt động theo giấy phép kinh doanh số 03.06.88.76.78 do Sở kế hoạch đầu tư TP.Hồ Chí Minh cấp.</p>
-
-						<p>NGN Corporation được lập ra với sứ mệnh duy nhất là Cung cấp sản phẩm và dịch vụ CNTT tốt nhất cho khách hàng nhằm cụ thể hóa mong ước "Nâng tầm giá trị cho doanh nghiệp bằng hệ thống CNTT – Add your value with IT System".</p>
-
-						<p>NGN Corporation được xây dựng dựa trên đội ngũ nhân sự giỏi, chuyên nghiệp và có nhiều kinh nghiệm thiết kế, quản lý và triển khai các hệ thống CNTT lớn tại Việt Nam.</p>
-					</div>
-				</div>
-			</div>
 			<div role="field">
 				<div class="row">
 					<div class="col-md-3 col-md-3">
-						<h3>Lĩnh vực</h3>
+						<h3>INTRODUCTION</h3>
 					</div>
 					<div class="col-md-9 col-md-9">
-						<p>NGN Corporation hoạt động chuyên nghiệp trong lĩnh vực tư vấn, thiết kế, cung cấp và triển khai các giải pháp CNTT đòi hỏi nhiều về chiều sâu lẫn chiều rộng như:</p>
+						<p>NGN is a leading company in consulting, designing, supplying and manufacturing IT products and IT services in Vietnam:</p>
 
 						<ul>
-							<li>Hệ thống hạ tầng mạng viễn thông và công nghệ thông tin dựa trên các sản phẩm mới nhất của các hãng Cisco, IBM, HP, Siemens, AMP, Clipsal, Microsoft, Symantec, Kaspersky, Astaro, Allied Telesys…</li>
-							<li>Hệ thống lưu trữ tập trung như DAS, NAS, SAN</li>
-							<li>Trung tâm tích hợp dữ liệu (Cooperate data center)</li>
-							<li>Trung tâm phục hồi dữ liệu khi có thảm họa xảy ra ( Disaster recovery center)</li>
-							<li>Hệ thống ảo hóa: VMWare, Microsoft Hyper-V, Citrix</li>
+							<li>Cyber security products including: Security Operation Center; UTM Firewall; Web application Firewall; Antispam mail Appliance; OTP System; Etc…</li>
+							<li>Software products base on Bigdata platform including: CMS Bigdata system; Task management system; The portal system provides information about complaints and denunciations; Secure Instant message system; Etc…</li>
 						</ul>
 
 
-						<p>Hệ thống bảo mật toàn diện cho mạng máy tính dựa trên các tiêu chuẩn, quy định, quy trình bảo mật và căn cứ pháp lý rõ ràng như:</p>
-
+						<p>NGN is EC-Council's authorized training partner in Vietnam. NGN regularly has cyber security training courses such as:</p>
 						<ul>
-							<li>Tiêu chuẩn qui định trong ISO/IEC 27000:2005(E) - Information technology – Security techniques – Information security management systems – Requirements (Công nghệ thông tin – Kỹ thuật bảo mật – Hệ thống quản lý an toàn thông tin – Các yêu cầu).</li>
-							<li>Các hướng dẫn trong ISO/IEC 17799:2005(E) - Information technology – Security techniques – Code of practice for Information security management (Công nghệ thông tin – Kỹ thuật bảo mật – Qui tắc thực tiễn cho Hệ thống quản lý an toàn thông tin).</li>
-							<li>Các giải pháp, khuyến cáo, mô hình và sản phẩm bảo mật của các hãng bảo mật như Cisco, Check Point, Microsoft, Astaro, Kaspersky…</li>
+							<li>Certified Ethical Hacker Master Program</li>
+							<li>Execute Management Program</li>
+							<li>Penetration Tester Program</li>
+							<li>Incident Handler And Response Program</li>
+							<li>Computer Forensics Program</li>
+							<li>SOC Analyst Program</li>
+							<li>Network Defender Program</li>
+						</div>
+					</div>
+				</div>
+				<div role="info">
+					<div class="row">
+						<div class="col-md-3 col-md-3">
+							<h4>MESSAGE FROM OUR GENERAL MANAGER AND OUR CHAIRMAN OF THE BOARD</h4>
+						</div>
+						<div class="col-md-9 col-md-9">
+							<p>Dear Employees,</p>
 
-							<p>NGN Corporation được xây dựng dựa trên đội ngũ nhân sự giỏi, chuyên nghiệp và có nhiều kinh nghiệm thiết kế, quản lý và triển khai các hệ thống CNTT lớn tại Việt Nam.</p>
+							<p>Established in January 2009, Next Generation Network Corporation. (“NGN”) has long held the belief that integrity, creation, dynamic and the way we treat our employees, shareholders, customers, suppliers, competitors and communities, are key to our Company’s longevity and success. Our values, as well as our guiding principles, form the foundation of our business culture and serve as a roadmap for navigating the complex and dynamic marketplaces in which we do business. Our Code of Business Ethics and Conduct (our “Code”) reinforces these values and principles and establishes the behaviors that we expect from all of our employees, officers and directors in maintaining the highest levels of integrity in everything we do.</p>
+
+							<p>Our Code applies to everyone at our Company and unites us as One Team, One Company. By being “United in Purpose,” and acting consistently with our Code, we can sustain the NGN brand and reputation and continue to build on the growth and success of our Company. </p>
+
+							<p>Please, take the time to read through our Code and understand its guidance. If you have any questions about our Code or need help understanding how it applies to the work you do, seek advice from any of the resources listed. Be assured that our Company will not retaliate against anyone for asking questions or raising concerns in good faith, so you can feel comfortable coming forward. We also expect you to raise concerns if you observe any of your colleagues not complying with our Code. </p>
+
+							<p>Thank you for upholding our commitment to integrity at NGN and for your continued dedication to our Company. </p>
 						</div>
 					</div>
 				</div>
@@ -70,7 +72,7 @@
 										<h4>VISION</h4>
 									</div>
 									<div class="body">
-										Becoming a leading Information Technology product manufacturer and IT service provider in Vietnam, gradually expanding to ASEAN and world markets
+										To be a leading manufacturer and provider of: IT solutions - IT Product - IT services and innovative solutions generating superior value for our customers, through passionate and energized employees.
 									</div>
 								</div>
 								<div class="col-md-6 block">

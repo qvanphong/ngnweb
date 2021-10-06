@@ -39,7 +39,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-md-4 solution">
-					<span class="solu-ico fa fa-shield"></span>
+					<span class="solu-ico fa fa-database"></span>
 					<h4>CYBER SECURITY</h4>
 					<p>Consulting, designing, providing solutions and manufacturing Cyber security products including: Security Operation Center; UTM Firewall; Web application Firewall; Antispam mail Appliance; OTP System; Microsoft Exchange Report</p>
 				</div>
@@ -63,14 +63,14 @@
 				<h2>Certification</h2>
 				<div class="col-lg-3 col-md-3 certificate">
 					<div>
-						<img src="images/certificate/logo_HOPQUY.png" alt="">
+						<img src="images/logo_customer/logo KH-10.svg" alt="">
 						<h4>HỢP CHUẨN - HỢP QUY</h4>
 						<p>Cục Tần số Vô tuyến điện (Bộ TT&TT) cấp</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-3 certificate">
 					<div>
-						<img src="images/certificate/logo_NOIP.png" alt="">
+						<img src="images/logo_customer/logo KH-11.svg" alt="">
 						<h4>SỞ HỮU TRÍ TUỆ</h4>
 						<p>Cục Sở Hữu Trí Tuệ (Bộ KH&CN) Việt Nam cấp</p>
 					</div>
@@ -78,14 +78,14 @@
 				</div>
 				<div class="col-lg-3 col-md-3 certificate">
 					<div>
-						<img src="images/certificate/logo_ISO.png" alt="">
+						<img src="images/logo_customer/logo KH-12.svg" alt="">
 						<h4>ISO</h4>
 						<p>Hệ thống quản lý Chất lượng và Dịch vụ CNTT</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-3 certificate">
 					<div>
-						<img src="images/certificate/logo_DKBQ.jpg" alt="">
+						<img src="images/logo_customer/logo KH-10.svg" alt="">
 						<h4>CỤC BẢN QUYỀN</h4>
 						<p>Cục bản quyền tác giả và chứng nhận</p>
 					</div>
@@ -124,14 +124,14 @@
 		<div class="container">
 			<h5>We’ve been featured in:</h5>
 			<div class="owl-carousel">
-				<img class="img-fluid" src="images/logo_customer/LogoHeader-01.svg" alt="">
-				<img class="img-fluid" src="images/logo_customer/LogoHeader-02.svg" alt="">
-				<img class="img-fluid" src="images/logo_customer/LogoHeader-03.svg" alt="">
 				<img class="img-fluid" src="images/logo_customer/LogoHeader-04.svg" alt="">
 				<img class="img-fluid" src="images/logo_customer/LogoHeader-05.svg" alt="">
 				<img class="img-fluid" src="images/logo_customer/LogoHeader-06.svg" alt="">
 				<img class="img-fluid" src="images/logo_customer/LogoHeader-07.svg" alt="">
 				<img class="img-fluid" src="images/logo_customer/LogoHeader-08.svg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-01.svg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-02.svg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-03.svg" alt="">
 			</div>
 		</div>
 	</section>
