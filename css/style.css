@@ -239,10 +239,10 @@ footer .solutions ul li a {
 
 /* Company Page */
 #about-us {
-	padding-top: 20vh;
+	width: 100vw;
+	padding-top: 5vh;
 	padding-bottom: 10vh;
-	color: #fff;
-	background: #1a191970;
+	background: #fff;
 }
 #about-us div[role='logo'] {
 	text-align: center;
@@ -272,7 +272,7 @@ footer .solutions ul li a {
 	display: inline-block;
 }
 #about-us div[role='bonus'] .block{
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 
 /* Contact Page */
@@ -282,7 +282,6 @@ footer .solutions ul li a {
 }
 #contact-banner{
 	background: url(../images/bg-contact.jpg) no-repeat center center;
-	height: 60vh;
 }
 #contact {
 	background: #fff;
@@ -292,5 +291,9 @@ footer .solutions ul li a {
 /* Solution banner */
 #solution-banner{
 	background: url(../images/solution_bg.jpg) no-repeat center center;
-	height: 60vh;
+}
+
+/* Solution banner */
+#company-banner{
+	background: url(../images/company_bg.jpeg) no-repeat center center;
 }
