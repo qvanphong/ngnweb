@@ -12,7 +12,7 @@
 	<?php
 	include "includes/navbar.html";
 	?>
-	<section id="contact">
+	<section id="course-content">
 		<div class="container-fluid py-5">
 			<!-- header here -->
 			<div class="content container-lg">
