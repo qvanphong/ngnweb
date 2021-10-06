@@ -10,11 +10,11 @@
 	<?php 
 	include "includes/navbar.html";
 	?>
+	<section id="company-banner" class="banner">
+		
+	</section>
 	<section id="about-us">
 		<div class="container">
-			<div role='logo'>
-				<img src="images/logo.png" alt="">
-			</div>
 			<div role="info">
 				<div class="row">
 					<div class="col-md-3 col-md-3">
@@ -67,46 +67,47 @@
 								<div class="col-md-6 block">
 									<div class="head">
 										<img src="images/company/TamNhin.jpg" alt="">
-										<h4>Tầm nhìn</h4>
+										<h4>VISION</h4>
 									</div>
 									<div class="body">
-										Trở thành một công ty tích hợp hệ thống công nghệ thông tin hàng đầu của khu vực Đông nam á và toàn cầu.
+										Becoming a leading Information Technology product manufacturer and IT service provider in Vietnam, gradually expanding to ASEAN and world markets
 									</div>
 								</div>
 								<div class="col-md-6 block">
 									<div class="head">
 										<img src="images/company/SuMenh.jpg" alt="">
-										<h4>Sứ mệnh</h4>
+										<h4>MISSION</h4>
 									</div>
 									<div class="body">
-										Cung cấp sản phẩm và dịch vụ CNTT tốt nhất cho khách hàng nhằm cụ thể hóa mong ước “Nâng tầm giá trị cho doanh nghiệp bằng hệ thống CNTT – Add your value with IT System”.
+										Providing the best IT products and services for Partners and customers in order to concretize their expectation “Add your value with IT System”. 
 									</div>
 								</div>
 								<div class="col-md-6 block">
 									<div class="head">
 										<img src="images/company/MucTieuChienLuoc.jpg" alt="">
-										<h4>Mục tiêu và chiến lược</h4>
+										<h4>OBJECTIVE AND STRATEGY</h4>
 									</div>
 									<div class="body">
-										Sử dụng chiến lược kinh doanh “ Tất cả cùng thắng” để từng bước khẳng định vị thế NGN CORP. tại thị trường Việt Nam, đồng thời mở rộng hoạt động ra toàn khu vực và thế giới.
+										Using “Win – Win” Business Strategy to assert NGN Corp.’s position in Vietnam market and at the same time widening operations across the ASEAN and the world.
 									</div>
 								</div>
 								<div class="col-md-6 block">
 									<div class="head">
 										<img src="images/company/DoiNgu.jpg" alt="">
-										<h4>Đội ngũ của chúng tôi</h4>
+										<h4>OUR TEAM</h4>
 									</div>
 									<div class="body">
 										<ul>
-											<li>04 Đại học chuyên ngành CNTT và Viễn Thông.</li>
-											<li>01 Tiến sĩ mạng Cisco (CCIE)</li>
-											<li>02 kỹ sư Cisco và bảo mật hệ thống mạng( CCNP; CCSP)</li>
-											<li>03 Quản trị mạng Cisco (CCNA)</li>
-											<li>02 Kỹ sư hệ thống Microsoft ( MCSA, MCSE, MCSE Messaging base on MS Windows 2003 & MS Windows 2008)</li>
-											<li>01 Kỹ sư bảo mật hệ thống Microsoft ( MCSA, MCSE, MCSE Security base on MS Windows 2000, MS Windows 2003 & MS Windows 2008)</li>
-											<li>01 Kỹ sư quản trị hệ thống SUN Solaris (System Administration for the Solaris)</li>
-											<li>01 Kỹ sư cabling ( AMP-Krone & Clipsal Engineer</li>
-											<li>01 Kỹ sư quản trị hệ thống Linux</li>
+											<li>04 engineers with bachelor & engineering degrees specializing in IT & telecommunication</li>
+											<li>01 Cisco Certified Internetwork Expert (CCIE Written)</li>
+											<li>02 Cisco Certified Network Professional and Cisco Certified Security Professional (CCNP & CCSP) </li>
+											<li>03 Cisco Certified Network Associate (CCNA) </li>
+											<li>01 Cabling Engineer (AMP-Krone & Clipsal Engineer)</li>
+											<li>01 engineer of Microsoft system (MCSA, MCSE, MCSE Messaging base on MS Windows 2003 & MS Windows 2008)</li>
+											<li>01 engineer of Microsoft Security System (MCSA, MCSE, MCSE Security base on MS Windows 2000, MS Windows 2003 & MS Windows 2008) </li>
+											<li>01 System administration for the Solaris (SUN Solaris) </li>
+											<li>01 System administration for the Linux</li>
+											<li>20 Software Engineer</li>
 										</ul>
 									</div>
 								</div>
