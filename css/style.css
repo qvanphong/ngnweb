@@ -64,10 +64,10 @@ body {
 	text-shadow: 2px 2px #2c2c2c;
 }
 #home .solution-row {
-	
+
 }
 #home .solution-img{
-	
+
 }
 
 #home .solution-img img{
@@ -85,11 +85,11 @@ body {
 #solutions .solution {
 	text-align: center;
 	margin-bottom: 40px;
-} 
+}
 #solutions .solution .solu-ico {
 	color: #fff;
     font-size: 70px;
-} 
+}
 #solutions .solution h4{
 	text-align: center;
 	color: #3949bb;
@@ -141,7 +141,70 @@ body {
 }
 
 #featured img {
-	
+
+}
+
+.content {
+	background-color: white;
+}
+
+
+.introduce-wrapper {
+	padding: 32px 0px 32px 0px;
+	margin-bottom: 32px;
+}
+
+.full-width-button {
+	width: 100%;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	border-radius: 50rem;
+}
+
+.gray {
+	background-color: rgba(247, 247, 247, 1);
+}
+
+.package-item {
+	background-color: rgba(247, 247, 247, 1);
+
+}
+
+.package-item > h6 {
+	border-bottom: 1px solid #dee2e6!important;
+	padding: 16px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.why-wrapper {
+	background-color: rgba(247, 247, 247, 1);
+	margin-top: 32px;
+}
+
+.why-wrapper > * {
+	padding-top: 32px;
+	padding-bottom: 32px;
+	border-bottom: 1px solid #dee2e6!important;
+}
+
+.why-icon {
+	font-size: 2.85em!important;
+	color: white;
+}
+
+.why-paragraph {
+	font-size: 13px;
+}
+
+.icon-wrapper {
+	width: 5em;
+	height: 5em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+	background-color: #d85b37;
 }
 
 footer {
