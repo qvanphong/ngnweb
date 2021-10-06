@@ -6,7 +6,12 @@ $(document).ready(function(){
 			$("nav").removeClass("nav-backgroud");
 		}
 	});
+	$('#navbar').bootnavbar({
+              //options
 
+              //animation: false
+
+          });
 	$('.owl-carousel').owlCarousel({
 		loop:true,
 		margin:100,
