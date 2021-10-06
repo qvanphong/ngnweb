@@ -282,3 +282,7 @@ footer .solutions ul li a {
 	background: url(../images/bg-contact.jpg) no-repeat center center;
 	height: 60vh;
 }
+#contact {
+	background: #fff;
+	padding: 60px 0;
+}
