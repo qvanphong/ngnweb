@@ -278,6 +278,18 @@ footer .solutions ul li a {
 	margin-bottom: 30px;
 }
 
+.row-image {
+	width: 80%
+}
+
+.icon {
+
+    width: 48px;
+    height: 48px;
+    max-width: 48px;
+
+}
+
 /* Contact Page */
 .banner {
 	width: 100vw;
