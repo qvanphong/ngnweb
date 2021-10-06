@@ -20,7 +20,7 @@
 				<div class="introduce-wrapper border-bottom">
 					<div class="row">
 						<div class="col">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/V_i3wCtn0qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="414" height="233" src="https://www.youtube.com/embed/mdoMRJsWKUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 						<div class="col">
 							<p>
