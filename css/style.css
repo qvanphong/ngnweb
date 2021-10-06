@@ -139,9 +139,11 @@ body {
 #featured .feature-block{
 	text-align: center;
 }
-
-#featured img {
-
+#featured .owl-carousel{
+	text-align: center
+}
+#featured h5 {
+	margin-bottom: 30px;
 }
 
 .content {
@@ -285,4 +287,10 @@ footer .solutions ul li a {
 #contact {
 	background: #fff;
 	padding: 60px 0;
+}
+
+/* Solution banner */
+#solution-banner{
+	background: url(../images/solution_bg.jpg) no-repeat center center;
+	height: 60vh;
 }

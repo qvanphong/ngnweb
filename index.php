@@ -124,14 +124,14 @@
 		<div class="container">
 			<h5>We’ve been featured in:</h5>
 			<div class="owl-carousel">
-				<img class="img-fluid" src="images/logo_customer/logo_btttt.jpg" alt="">
-				<img class="img-fluid" src="images/logo_customer/logo_btttt.jpg" alt="">
-				<img class="img-fluid" src="images/logo_customer/logo_btttt.jpg" alt="">
-				<img class="img-fluid" src="images/logo_customer/logo_btttt.jpg" alt="">
-				<img class="img-fluid" src="images/logo_customer/logo_btttt.jpg" alt="">
-				<img class="img-fluid" src="images/logo_customer/logo_btttt.jpg" alt="">
-				<img class="img-fluid" src="images/logo_customer/logo_btttt.jpg" alt="">
-				<img class="img-fluid" src="images/logo_customer/logo_btttt.jpg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-01.svg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-02.svg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-03.svg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-04.svg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-05.svg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-06.svg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-07.svg" alt="">
+				<img class="img-fluid" src="images/logo_customer/LogoHeader-08.svg" alt="">
 			</div>
 		</div>
 	</section>

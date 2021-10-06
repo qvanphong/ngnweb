@@ -12,9 +12,6 @@
 	?>
 	<section id="about-us">
 		<div class="container">
-			<div role='logo'>
-				<img src="images/logo.png" alt="">
-			</div>
 			<div role="info">
 				<div class="row">
 					<div class="col-md-3 col-md-3">
