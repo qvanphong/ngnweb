@@ -19,23 +19,26 @@
 		<div class="container">
 			<h1>NEXT GENERATION NETWORK CORPORATION</h1>
 			<div class="row solution-row">
-				<div class="col-lg-4 col-md-4 solution-img">
-					<h4>CYBER SECURITY</h4>
+				<div class="col-lg-4 col-md-6 solution-img">
+					<h5>CYBER SECURITY</h5>
 					<img class="rounded img-fluid" src="images/solution1.jpg" alt="" >
+					<p>Consulting, designing, providing solutions and manufacturing Cyber security products including: Security Operation Center; UTM Firewall; Web application Firewall; Antispam mail Appliance; OTP System; Microsoft Exchange Report</p>
 				</div>
-				<div class="col-lg-4 col-md-4 solution-img">
-					<h4>BIGDATA SOFTWARE</h4>
+				<div class="col-lg-4 col-md-6 solution-img">
+					<h5>BIGDATA SOFTWARE</h5>
 					<img class="rounded  img-fluid" src="images/solution2.jpg" alt="">
+					<p>Consulting, designing, providing solutions and manufacturing software products base on Bigdata platform including: CMS Bigdata system; Task management system; The portal system provides information about complaints and denunciations; Secure Instant message system</p>
 				</div>
-				<div class="col-lg-4 col-md-4 solution-img">
-					<h4>CYBER SECURITY TRAINING CENTER</h4>
+				<div class="col-lg-4 col-md-6 solution-img">
+					<h5>CYBER SECURITY TRAINING CENTER</h5>
 					<img class="rounded  img-fluid" src="images/solution3.jpg" alt="">
+					<p>NGN is an authorized training center of EC-Council in Vietnam. NGN regularly has cyber security training courses such as: Certified Ethical Hacker Master; Execute Management; Penetration Tester; Incident Handler And Response; Computer Forensics; SOC Analyst; Network Defender.</p>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section id="solutions">
+	<!-- <section id="solutions">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-md-4 solution">
@@ -55,7 +58,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<section id="certificates">
 		<div class="container">
@@ -85,7 +88,7 @@
 				</div>
 				<div class="col-lg-3 col-md-3 certificate">
 					<div>
-						<img src="images/logo_customer/logo KH-10.svg" alt="">
+						<img src="images/logo_customer/LogoHeader-09.svg" alt="">
 						<h4>CỤC BẢN QUYỀN</h4>
 						<p>Cục bản quyền tác giả và chứng nhận</p>
 					</div>

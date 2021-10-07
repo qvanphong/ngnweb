@@ -8,7 +8,8 @@ html, body {
 body {
 	font-family: 'Poppins', sans-serif;
 	overflow-x: hidden;
-	background: url(../images/tech_bg.jpg) no-repeat center center fixed;
+	background: url(../images/bg.jpg) no-repeat center center fixed;
+	background-size: cover;
 }
 
 .container{
@@ -44,6 +45,11 @@ body {
 }
 .dropdown-menu{
 	background: #090b17eb;
+	left: -100px;
+}
+.banner {
+	width: 100vw;
+	height: 50vh;
 }
 /* Index Page */
 /* Home Section */
@@ -58,8 +64,8 @@ body {
 }
 
 #home h1 {
-	margin-bottom: 60px;
-	font-size: 300%;
+	margin-bottom: 20px;
+	font-size: 3vw;
 	text-shadow: 2px 2px #2c2c2c;
 }
 #home h4 {
@@ -67,16 +73,16 @@ body {
 	text-shadow: 2px 2px #2c2c2c;
 }
 #home .solution-row {
-
+	justify-content: center;
 }
 #home .solution-img{
 
 }
 
 #home .solution-img img{
-	box-shadow: 2px 2px 10px 2px #080707;
+	/*box-shadow: 2px 2px 10px 2px #080707;*/
 	margin-bottom: 20px;
-	width: 90%;
+	
 }
 
 /* Solution Section */
@@ -137,10 +143,6 @@ body {
 #featured {
 	padding: 50px 20px;
 	background: #fff;
-}
-
-#featured .feature-block{
-	text-align: center;
 }
 #featured .owl-carousel{
 	text-align: center
@@ -296,10 +298,6 @@ footer .solutions ul li a {
 }
 
 /* Contact Page */
-.banner {
-	width: 100vw;
-	height: 50vh;
-}
 #contact-banner{
 	background: url(../images/bg-contact.jpg) no-repeat center center;
 }
@@ -307,13 +305,12 @@ footer .solutions ul li a {
 	background: #fff;
 	padding: 60px 0;
 }
-
-/* Solution banner */
+/* Solution Page */
 #solution-banner{
 	background: url(../images/solution_bg.jpg) no-repeat center center;
 }
 
-/* Solution banner */
+/* Company Page */
 #company-banner{
-	background: url(../images/company_bg.jpeg) no-repeat center center;
+	background: url(../images/bg-contact.jpeg) no-repeat center center;
 }
